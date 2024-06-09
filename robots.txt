@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://artificialpatient.github.io/sitemap.xml
+Sitemap: artificialpatient.com/sitemap.xml
